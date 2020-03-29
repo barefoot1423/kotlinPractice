@@ -1,16 +1,12 @@
 fun main(args: Array<String>) {
 
-    var age = 28
+    var age: Int = 28
 
-    age = 29
+    println(age)
 
-    var candy = "Snickers"
+    var candy: String = "Fun dip"
 
-    println(candy)
-
-    print(age)
-
-    var weather = "Sunny"
+    print(candy)
 
 }
 
