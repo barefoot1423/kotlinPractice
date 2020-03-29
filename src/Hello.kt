@@ -1,13 +1,9 @@
 fun main(args: Array<String>) {
 
-    var age: Int = 28
+    var pi = 3.14
 
-    println(age)
+    var radius = 2;
 
-    var candy: String = "Fun dip"
-
-    print(candy)
+    println(pi * radius)
 
 }
-
-
